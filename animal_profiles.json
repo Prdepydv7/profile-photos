@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "title": "Deer",
+        "url": "https://pixabay.com/get/g893cd79c7411bde072442a98bcb52fa9b346bb230d29a08c389905bb6a8fde2855cf6c7ad785e5a24e2ee3ceafb3794f4db7467af9959119bfcd3bf7b7ff0cf7_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2016/04/16/21/49/deer-1333814_150.jpg",
+        "category": "animal_profile",
+        "tags": "deer, dream, animal, fantasy, magic, 3d, render, glow, nature, glowing, wireframe"
+    },
+    {
+        "id": 2,
+        "title": "Cat",
+        "url": "https://pixabay.com/get/g036e1dd3025d411f1e1570ae284ec75de09143aeff3e6abe9d137af9ae54ffed4eb8320b6a11dfbed9e3c42ebc467bb22a6e79267410b482f8065d1973504e52_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/09/22/17/53/cat-7472818_150.jpg",
+        "category": "animal_profile",
+        "tags": "cat, kitten, cute cat, flowers, cute kitten, animal, roses, nature, colors, garden, plants, beauty, 3d mockup, pet, 3d render, digital art, oil painting effect"
+    },
+    {
+        "id": 3,
+        "title": "Cute Dog",
+        "url": "https://pixabay.com/get/ge871169c4763dab6ca78fa63f8c42c40f0d26b284ac278f871fd4594a200cb961b177576894e026e9dae5431f7155a4792d8bd6c9772331ca0eeb2cc4e2e5817_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/09/05/20/46/cute-dog-7435166_150.jpg",
+        "category": "animal_profile",
+        "tags": "cute dog, adorable dog, dog, nature, cartoon dog, pet, puppy, animal, canine, 3d art, 3d render, 3d mockup"
+    },
+    {
+        "id": 4,
+        "title": "Cute Dog",
+        "url": "https://pixabay.com/get/g1b47df6aede787bb9976c8de845c02d26e4e7acc33610747b9163ab3dc152b225587788bd7ccb9bffb2cfe1f1f7ad50f959b6b7e148db3111d6c924fd05f28f7_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/09/05/20/46/cute-dog-7435167_150.jpg",
+        "category": "animal_profile",
+        "tags": "cute dog, adorable dog, nature, dog, cartoon dog, pet, puppy, animal, canine, 3d art, 3d render, 3d mockup"
+    },
+    {
+        "id": 5,
+        "title": "Jellyfishes",
+        "url": "https://pixabay.com/get/g126cb0f397b796343dc65fa4a16f181428af96c4372539e41f94d43f7743067a447a24a478dc252fefc3293c7f2ef1241ac3e45d6531d50c3a0d5ae33d07a19f_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2016/10/10/22/05/jellyfishes-1730018_150.jpg",
+        "category": "animal_profile",
+        "tags": "jellyfishes, sea jellies, nature, deep sea, shining, mystical, 3d, glowing, blender, animals, water creatures, tentacles, underwater"
+    },
+    {
+        "id": 6,
+        "title": "Dog",
+        "url": "https://pixabay.com/get/g74fa7b7ecd412b85ae1631a4f23c4db030fe2a006fee3ee8923250394d2c1258aeeaf6b003f4607a37cd7f81a8ca49d07b6b6eab000db4184fa9562ea0f72286_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/09/15/17/55/dog-7456991_150.jpg",
+        "category": "animal_profile",
+        "tags": "dog, puppy, christmas, santa hat, pet, 3d, animal, nature, mammal, cute, celebration, canine, 3d render, art"
+    },
+    {
+        "id": 7,
+        "title": "Cute Kitten",
+        "url": "https://pixabay.com/get/g7b4f3feca8bb0c6b8ab189ee80c12fa956c824c1d3dc686ffe39bbbb53f532072e3dc709533fe16484dda953437075a2067f9c652605b7d9624a88e512edb331_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/10/29/21/50/cute-kitten-7556202_150.jpg",
+        "category": "animal_profile",
+        "tags": "cute kitten, kitten, animal, wildlife, nature, 3d render, 3d mockup, pet, cat, feline"
+    },
+    {
+        "id": 8,
+        "title": "Deer",
+        "url": "https://pixabay.com/get/g638e1071de998079a6525aa83c0860a5b41c358e34f7482cc02affe74367f82f773feb29251b270ef235630d4c80f855e1eceb8a745720765b4c16238463b085_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2018/03/12/15/06/deer-3219872_150.jpg",
+        "category": "animal_profile",
+        "tags": "deer, polygon, poly, low, christmas, illustration, animal, vector, art, origami, 3d wallpapers, graphic, geometric, 3d, element, design, nature, symbol, horn, badge, wild nature, background"
+    },
+    {
+        "id": 9,
+        "title": "Pig",
+        "url": "https://pixabay.com/get/ge2fa2f078a2db1f7089fab248299607b9457db06b5b9392090f49aeee98accbee3a3d2a693d382933244a25df2d6c9265202883e2dcf68cf098bc4d9f7fcc046_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2026/02/20/11/03/tanrica-pig-10134471_150.png",
+        "category": "animal_profile",
+        "tags": "pig, pink pig, farm animal, domestic swine, livestock mammal, side view pig, realistic skin texture, isolated on white, 3d render style, detailed animal art, rural life, farm illustration, natural colors, barn animal, agriculture concept, animal portrait, pasture animal, domestic mammal, high-detail illustration, swine farming, cute farm animal, realistic farm animal, ai generated"
+    },
+    {
+        "id": 10,
+        "title": "Animal",
+        "url": "https://pixabay.com/get/g86bf766b5df0ee4b720881227ee85ceabb78f28818b2a9545abb398500cad56551992160006b4df59dfdd970fdf14c251529cbe18176a6a9c327689d0996ee80_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/07/10/07/03/animal-8885015_150.jpg",
+        "category": "animal_profile",
+        "tags": "animal, cow, mammal, 3d, fun, cute, digital art, nature, art"
+    },
+    {
+        "id": 11,
+        "title": "Bull Terrier",
+        "url": "https://pixabay.com/get/gc7cc77524575ec373e02e2f5853c5506e58729034293ba2b517adcd73033ced4b1d96cc3dfee4cb3d3a5306aaab6d721e0172aba83237d6d8cef30575bb21cd0_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2025/10/18/09/08/bull-terrier-9901710_150.png",
+        "category": "animal_profile",
+        "tags": "bull terrier, dog, animal, nature, canine, mammal, terrier, breed, pet, ai generated"
+    },
+    {
+        "id": 12,
+        "title": "Dragon",
+        "url": "https://pixabay.com/get/gce7dc3de28619b062989ea9e9bc04ed2ad3fe2080600b3ccd106ccb8497830c0daa02e1baed409091db1a4ea711a2ba4135780758374c5c2d1b4b392db599dc4_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/12/14/22/06/dragon-7656450_150.png",
+        "category": "animal_profile",
+        "tags": "dragon, fantasy, ai generated, animal, nature, cute, small, eyes, mythical, 3d, cut out"
+    },
+    {
+        "id": 13,
+        "title": "Ai Generated",
+        "url": "https://pixabay.com/get/g09ca5a3ae1bcaa8588a8aa8a10c2e99d23c2a20d168a081597cb0554fff1c74d2c81037fa6ba37f612625445ca5d2b335c08a25b3455485afbe7e999cb35e621_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/02/16/21/06/ai-generated-8578343_150.jpg",
+        "category": "animal_profile",
+        "tags": "ai generated, owl, baby bird, fluffy, cute, chubby, soft, nature, whimsical, adorable, feathery, 3d illustration, animal"
+    },
+    {
+        "id": 14,
+        "title": "Penguin",
+        "url": "https://pixabay.com/get/g66cb0114d69fcd266122ca07006a0458d5c94c2b249ff6c4b6fb74f1aacf1539a907d9851d08528630c1498b9954d972a246d862be0f1a6aa9ca7d13eb309388_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/07/19/16/41/penguin-8906728_150.jpg",
+        "category": "animal_profile",
+        "tags": "penguin, bird, nature, animal, cute, digital art, art, 3d render"
+    },
+    {
+        "id": 15,
+        "title": "Ai Generated",
+        "url": "https://pixabay.com/get/g59dba422451cc9528f3d552e26bad9fe50f32d04acb72ba1b5a03c36e0642b54d9d0dd14441bf9cf208e33289dc4f649cf4803d3638109585928f181e6c29b98_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/02/16/21/06/ai-generated-8578342_150.jpg",
+        "category": "animal_profile",
+        "tags": "ai generated, owl, baby bird, fluffy, nature, cute, chubby, soft, whimsical, adorable, feathery, 3d illustration, animal"
+    },
+    {
+        "id": 16,
+        "title": "Pigs",
+        "url": "https://pixabay.com/get/g31fff78bd44c0a82ec7e2cb5e729704be5790ee69dd044aab41c624fad4ed39fd2dba4ce19179b39788d19962db44766b30ff52f20723f8d477c9bb06b4d7b81_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/07/15/09/40/pigs-8896209_150.jpg",
+        "category": "animal_profile",
+        "tags": "pigs, animal, 3d, nature, mammal, omnivore, art, digital art, cute, pink"
+    },
+    {
+        "id": 17,
+        "title": "Cat",
+        "url": "https://pixabay.com/get/g943d7795d4078aacb23e0b3c06db92c1c2d8682ffbae7cfe16564424fb2e79cf95a8a449fc74415883d21f7f37ab87a4c900fe3f15fdd103046ad1b9a541faf6_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/07/15/00/53/cat-8895389_150.jpg",
+        "category": "animal_profile",
+        "tags": "cat, animal, 3d render, nature, pet, art, digital art, cute"
+    },
+    {
+        "id": 18,
+        "title": "Hen",
+        "url": "https://pixabay.com/get/g08b5d2ac0fc816bf0ac72c52038210104d5e85cf037d4fed46f229ba50f84f41a410570bbf633b9e9383948c24bd6fde54b647c4aa1729749cd1575b5202cd74_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2026/02/20/11/03/tanrica-hen-10134474_150.png",
+        "category": "animal_profile",
+        "tags": "hen, brown chicken, mother hen, baby chick, farm poultry, barnyard animal, side view hen, realistic feathers, detailed bird art, domestic chicken, countryside theme, farm livestock, rural life, natural colors, standing hen, animal portrait, poultry farming, feather texture, farm illustration, barn animal, domestic bird, realistic farm animal, ai generated"
+    },
+    {
+        "id": 19,
+        "title": "Bird",
+        "url": "https://pixabay.com/get/gaae72278dabadf374d52e145cfc376df0c919b927e162bc3685f1d33626e85d337969180ab7e77c6d54ee858e819dce7755831ad4a5a29c11f91954508e8183a_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/07/10/07/08/bird-8885024_150.jpg",
+        "category": "animal_profile",
+        "tags": "bird, animal, 3d, wildlife, digital art, fun, nature, cute, ornithology"
+    },
+    {
+        "id": 20,
+        "title": "Ai Generated",
+        "url": "https://pixabay.com/get/g049b766f0a73199156fb8fec2a74e2940ad263d5862a49563b6495db08b71b5c03aacd66b2bd94437e652b22d4f837760cf3b0c65590ee344ed5adf7f2c3b2eb_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2023/08/19/22/03/ai-generated-8201261_150.png",
+        "category": "animal_profile",
+        "tags": "ai generated, cat, kitten, feline, animal, playful, flowers, 3d, cute, digital art, adorable, nature, fun, pet, cartoon, colorful, character, 3d wallpapers, background"
+    },
+    {
+        "id": 21,
+        "title": "Ai Generated",
+        "url": "https://pixabay.com/get/g809c04e50ea818bc992e04d91f158bc6c0f65540adb6e09fb7ada59c050b9569427e2d64137e0233a193c482cbfeb0708b1f946cd0f7a3243e78c6a819730971_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/02/16/21/06/ai-generated-8578344_150.jpg",
+        "category": "animal_profile",
+        "tags": "ai generated, owl, baby bird, fluffy, nature, cute, chubby, soft, whimsical, adorable, feathery, 3d illustration, animal"
+    },
+    {
+        "id": 22,
+        "title": "Dog",
+        "url": "https://pixabay.com/get/g01e588a53b5df7350855b2ec9ddc2b5f8237b6cc9e4eda27e942e9be5d8b23f31e10f6f01be6a2764d17fdcfc361e98da47f8c277626ecf340eace043fd8336a_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/07/15/09/30/dog-8896183_150.jpg",
+        "category": "animal_profile",
+        "tags": "dog, puppy, pet, 3d, mammal, animal, art, nature, cute, digital art"
+    },
+    {
+        "id": 23,
+        "title": "Ai Generated",
+        "url": "https://pixabay.com/get/gb70741ab1c08aaf376caccae0d495827a191c4521da121447c52965684d2554c5bfc47ebdc4240f76b26dc6ccfad21a76e2de9c0d111e1e88360aedee2d3f6e1_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2023/08/19/22/15/ai-generated-8201286_150.png",
+        "category": "animal_profile",
+        "tags": "ai generated, cat, kitten, 3d wallpapers, feline, pet, playful, flowers, 3d, cute, digital art, adorable, fun, animal, nature, cartoon, colorful, character, background"
+    },
+    {
+        "id": 24,
+        "title": "Cat",
+        "url": "https://pixabay.com/get/gb6c71db46733bcb792dd85e9f2167b6e1d62c88df77ad3c78bb411b70e6a68a603aafb34ef7c31054c61935dcbc28dfe21e37b9757cca96d9d3bef60e2b4bc74_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/09/04/19/50/fractals99-cat-7432630_150.jpg",
+        "category": "animal_profile",
+        "tags": "cat, kitten, cartoon cat, cute cat, fantasy, animal, armor, medieval armor, cartoon, painting, pet, 3d render, 3d mockup, ai generated"
+    },
+    {
+        "id": 25,
+        "title": "Alien",
+        "url": "https://pixabay.com/get/g46d97fce8d6a0b90df8f026950566a06f1ca055a2d0141c6138ca7a62182e834347bd09cf6fd64b8319178f94cf21e6a99e18841935379c7a5dc0a36d3337d32_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/12/14/22/02/alien-7656432_150.png",
+        "category": "animal_profile",
+        "tags": "alien, nature, fantasy, ai generated, animal, cute, small, eyes, monster, 3d, cut out"
+    },
+    {
+        "id": 26,
+        "title": "Dino",
+        "url": "https://pixabay.com/get/gde9eeb7ed5005af7e6ed5288a54e6a43caabe8b5fc28ee4afbce0f25d6b070ce86c839e413fe9d3f245ba7b48483fbd8ab7a44936924f0d7c318b43c7efb0784_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/07/15/05/56/dino-8895761_150.jpg",
+        "category": "animal_profile",
+        "tags": "dino, dinosaur, 3d, cute, animal, digital art, wildlife, carnivore, predator, nature, colorful"
+    },
+    {
+        "id": 27,
+        "title": "Earthworm",
+        "url": "https://pixabay.com/get/g3f33cb04d0feb49c97818bb6f9c8cb66a96d4ca36fa61440d16a33e2cfcde4469bef56b5a0d46b9950d431051b10f65135016d0b568ce4400dff14de70b7074a_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2023/07/27/02/47/earthworm-8152304_150.jpg",
+        "category": "animal_profile",
+        "tags": "earthworm, animal, cartoon, funny, invertebrate, smile, happy, face, nature, cute, 3d, earthworm, earthworm, earthworm, earthworm, earthworm, funny"
+    },
+    {
+        "id": 28,
+        "title": "Lion Hologram",
+        "url": "https://pixabay.com/get/gf628beb8a9eeaefafce795cc27a2ee3c4b98da30f6fb02c94d12014d5fdcd9e1d0ac5854636772198cd55b27e77877082481b03c7f4c95316a568792867947e7_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2019/08/11/21/17/lion-hologram-4399941_150.jpg",
+        "category": "animal_profile",
+        "tags": "lion hologram, 3d illustration, 3d object, 3d rendering, animal, hologram, blue, blue object, cinematic, concept, concept object, future, futuristic, isolated, lion, lion isolated, overlay, render, rendering, technology, transparency, nature, wild, wildlife, wire, 3d, black technology, black future"
+    },
+    {
+        "id": 29,
+        "title": "Elephant",
+        "url": "https://pixabay.com/get/g3eefebbfccaabdb3ab5f2200892a45f272bfd9a4522c44c536876cd046e499036e05b7ec74fe60187369b8e1ebeb8bad4b053c8023833eb47e758bfea66c0acc_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/07/20/17/02/elephant-7334576_150.png",
+        "category": "animal_profile",
+        "tags": "elephant, mammal, wild animal, wildlife, animal, fauna, nature, 3d mockup, 3d render, cutout, elephant, elephant, elephant, elephant, elephant, animal, nature"
+    },
+    {
+        "id": 30,
+        "title": "Created By Ai",
+        "url": "https://pixabay.com/get/g7fc8105af76199dccd23b2f7137c9b8fb912fafb314ca4b63942ce06497833df152f6f9220669aebfc9d78468b1ee6290c5d41c78b4a2a1f291668f2e60344b5_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/03/15/22/03/created-by-ai-8635844_150.png",
+        "category": "animal_profile",
+        "tags": "created by ai, hedgehog, cartoon, scratchy, animal, character, cute, 3d, nature, small"
+    },
+    {
+        "id": 31,
+        "title": "Dragon",
+        "url": "https://pixabay.com/get/g71729d13b821483a8b1608ec07afa0f1beae6f0abcbcaf584f8d074a390b84366104a3e5f7bca28a159fea37e810068159f729a892bd24d309b758d5353844f1_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/12/14/22/05/dragon-7656443_150.png",
+        "category": "animal_profile",
+        "tags": "dragon, fantasy, ai generated, animal, cute, small, nature, mythical, 3d, cut out"
+    },
+    {
+        "id": 32,
+        "title": "Christmas Reindeer Skating",
+        "url": "https://pixabay.com/get/gf0fd68862dec115330c60bfbe7b5d56e9a1c9147236e3e1847f477b7987093072d30595c7c20a5048bfcfdf5c7b30622ae151a57a4f86350c7d8941a93643ac7_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2025/12/15/09/04/christmas-reindeer-skating-10015614_150.png",
+        "category": "animal_profile",
+        "tags": "christmas reindeer skating, 3d reindeer in a sweater, cute festive character, winter sweater animal, holiday ice skating, adorable 3d reindeer, christmas cartoon style, cozy winter illustration, santa's reindeer character, christmas joy art, winter fun artwork, festive season design, charming holiday animal, merry christmas art, cute winter mascot, snow and ice illustration, holiday cheer, christmas spirit, 3d cartoon animal, winter holiday clipart, joyful reindeer pose, seasonal illustration, christmas celebration art, ai generated"
+    },
+    {
+        "id": 33,
+        "title": "Ai Generated",
+        "url": "https://pixabay.com/get/g3b0421b6a502667282d4a4f524300b54bb8475e29586453df8c673a42116d4a55c27bf093f2f318cf92fb88637f5e980b3b8ef1fe632f14a9c814205b8f2299d_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2023/08/19/22/14/ai-generated-8201285_150.png",
+        "category": "animal_profile",
+        "tags": "ai generated, cat, kitten, feline, playful, animal, flowers, 3d, cute, digital art, adorable, nature, 3d wallpapers, fun, cartoon, pet, colorful, character, background"
+    },
+    {
+        "id": 34,
+        "title": "Ai Generated",
+        "url": "https://pixabay.com/get/g33c0c6a5fe9649c017076fb24d4367bea01c01495899072e62742989446b8a7803d1dfc11ee5b9d3f97f94f90353718e3e8b50bf94989e66ccc5e485f36033e8_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2023/08/19/22/13/ai-generated-8201283_150.png",
+        "category": "animal_profile",
+        "tags": "ai generated, cat, kitten, feline, playful, flowers, 3d, cute, digital art, animal, adorable, nature, fun, 3d wallpapers, cartoon, pet, colorful, character, background"
+    },
+    {
+        "id": 35,
+        "title": "Fantasy",
+        "url": "https://pixabay.com/get/g79448f6809c2b2d19f85fcda9f3551088cb61abbf39bd1beccf8780872ad52917f74c4156a4b28085bdf4e5b37b4d6a421e0f37d0f1a9437c3cb12d90849eec0_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2020/08/16/01/12/fantasy-5491610_150.png",
+        "category": "animal_profile",
+        "tags": "fantasy, dragon, 3d rendering, 3d fantasy, fairytale, animal, creature, reptile, legend, nature, myth, beast, magical, mythological"
+    },
+    {
+        "id": 36,
+        "title": "Alien",
+        "url": "https://pixabay.com/get/gba0b16aea270c1925a6272523c623e08ae76c3f73ab92aff06661261ef190b8d09026133676e91ff845bd0368a6919fd744732d886393473f14b8958e6912742_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/12/14/22/01/alien-7656430_150.png",
+        "category": "animal_profile",
+        "tags": "alien, fantasy, ai generated, nature, animal, cute, small, fluffy, eyes, apple, 3d, cut out"
+    },
+    {
+        "id": 37,
+        "title": "Dog",
+        "url": "https://pixabay.com/get/g95e7620b33fe63cf771d11e37144b8bd667c512c8aa5a6282011eed070bd3cdf62abc96cd0c33f1009713f999bb48a87caf3a40e68816db08ecc80e71f3de9c6_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/08/26/23/15/dog-9000367_150.jpg",
+        "category": "animal_profile",
+        "tags": "dog, puppy, canine, bone, happy, cute, nature, pet, animal, playful, 3d, 3d character"
+    },
+    {
+        "id": 38,
+        "title": "Ai Generated",
+        "url": "https://pixabay.com/get/g0ff82836348070fb041976b13a4f45cd2213a01bc8ea17ac261e25864bc8ae1f2810da2fc3500dfa2f254e57890aaeb0c8d3c45b88312c200aa6f323932ac8fe_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2023/08/19/22/13/ai-generated-8201276_150.png",
+        "category": "animal_profile",
+        "tags": "ai generated, cat, kitten, feline, playful, flowers, 3d, cute, nature, animal, digital art, adorable, fun, 3d wallpapers, cartoon, pet, colorful, character, background"
+    },
+    {
+        "id": 39,
+        "title": "Elephants",
+        "url": "https://pixabay.com/get/g945186c3c6ca0693b50ad79cd49cbb2b7f996f6a7818d94456f4e9e81dcabacdc46272339fccd39b6aed10a6a631136806b1b5bc89b9141450954a6f0acaf086_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/07/13/00/15/elephants-7318337_150.png",
+        "category": "animal_profile",
+        "tags": "elephants, wildlife, mammal, nature, animal, 3d mockup, 3d render, cutout"
+    },
+    {
+        "id": 40,
+        "title": "Lion",
+        "url": "https://pixabay.com/get/gc3fbd1fbd4773019736c0a772cccbe19a93e7aa730ad56fb5f79f8702a02872f5f6c1c4db06ea4b921e2c49e2a16e4fb0b105e01e84c1386652a80c5925c797e_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2020/04/25/18/31/lion-5092047_150.png",
+        "category": "animal_profile",
+        "tags": "lion, nature, male, 3d, model, figure, animal, pet, rendering, 3d model, predator, africa, cat, design"
+    },
+    {
+        "id": 41,
+        "title": "Cute Christmas Reindeer",
+        "url": "https://pixabay.com/get/g22f393d22a03f950ab21001454117a8355ac696e30790103eb57c66392342c9b6a4c858a8dbb75a42baaef3c9546f66a0057910bb0e2b6d21a4bcd352d06c64e_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2025/12/15/09/06/cute-christmas-reindeer-10015621_150.png",
+        "category": "animal_profile",
+        "tags": "cute christmas reindeer, 3d reindeer skating, festive reindeer character, holiday skating illustration, adorable 3d animal, santa's reindeer cartoon, winter fun art, christmas character design, joyful reindeer, ice skating reindeer, cute festive creature, merry christmas illustration, holiday season art, christmas animation style, cheerful winter character, festive cartoon animal, christmas spirit art, holiday joy illustration, 3d cute mascot, christmas magic, fun winter activity art, snowy skating scene, holiday clipart, ai generated"
+    },
+    {
+        "id": 42,
+        "title": "Cat",
+        "url": "https://pixabay.com/get/g01ed1c1d81247263a68c314c135d59e294ac45757b876652e3d12b530ff9582e8725f86c88828bf7f6a144b5de374c9e2e2f7148e70337cd41569b3ec9a7f378_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/09/04/20/32/cat-7432703_150.jpg",
+        "category": "animal_profile",
+        "tags": "cat, medieval armor, cartoon cat, animal, kitten, cute cat, fantasy, armor, cartoon, painting, pet, 3d render, 3d mockup"
+    },
+    {
+        "id": 43,
+        "title": "Kangaroo",
+        "url": "https://pixabay.com/get/g0d1dcdaedffbb0d29fb62a847c4df4c58c0c0b7275fb626eda86d36a08ca5dc1b8c25bc01716fc41aad1dea2f6129bb7f227dc411e63969b9ffc6121329ad27c_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/06/23/22/58/kangaroo-8848877_150.png",
+        "category": "animal_profile",
+        "tags": "kangaroo, marsupial, animal, wildlife, mammal, fauna, herbivore, wild, pouch, australian, fur, cute, 3d, render, nature, kangaroo, kangaroo, kangaroo, kangaroo, kangaroo"
+    },
+    {
+        "id": 44,
+        "title": "Cat",
+        "url": "https://pixabay.com/get/g6b77def1618a44fcb27f6ac3285dee81fcb1fc4e8068763245f1abf339ab7fe6d74ec20913573fdcde73150ed80181e904423a23284029be090e1fb9b3f69742_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/07/10/07/31/cat-8885116_150.jpg",
+        "category": "animal_profile",
+        "tags": "cat, animal, art, 3d, pet, head, cute, pink, round, fun, nature, digital art"
+    },
+    {
+        "id": 45,
+        "title": "Lion",
+        "url": "https://pixabay.com/get/gb5f732171dbbba46de993a7ca9a8699a513a77941f8a94502adca06946b5ee8efae859e2d3ebef81c6c0ed28f11c6d96c8f4dbbc57f2d0a309b4386fca171362_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2026/02/20/11/48/tanrica-lion-10134535_150.png",
+        "category": "animal_profile",
+        "tags": "lion, male lion, wild predator, african wildlife, majestic mane, big cat, realistic fur texture, side view lion, safari animal, detailed animal art, nature fauna, standing lion, powerful mammal, natural colors, wildlife illustration, nature, animal portrait, savanna animal, carnivore species, high-detail illustration, wilderness theme, realistic character, king of the jungle, exotic wildlife, ai generated"
+    },
+    {
+        "id": 46,
+        "title": "Ai Generated",
+        "url": "https://pixabay.com/get/g14bd67c5b673e66f9f3a80f331ab568144d18a94b1d7516227ee4a6e39e2dc0b01833866eec6c01fce5f9cb3ce7071852f95fdb77fe77b5ed238a137162a8e0f_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2025/05/23/16/04/ai-generated-9618046_150.png",
+        "category": "animal_profile",
+        "tags": "ai generated, elephant, african elephant, trunk, big ears, good beast, savannah animal, 3d elephant, grey elephant, cute style, animal character, africa, baby elephant, proboscidian, large animal, children's graphics, standing elephant, cartoon, little animal, 3d"
+    },
+    {
+        "id": 47,
+        "title": "Ai Generated",
+        "url": "https://pixabay.com/get/gb5dede47ee25d4c1b027117e52c346786ca5c0d33c96df6139bbe7363604e6cc1b33da478e761db18c93aee860e4b89083136c8225c6d3b53ef1130c90aa267e_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2024/08/13/16/38/ai-generated-8966479_150.png",
+        "category": "animal_profile",
+        "tags": "ai generated, dog, cute, pet, nature, curious, 3d render, animal, canine"
+    },
+    {
+        "id": 48,
+        "title": "Cat",
+        "url": "https://pixabay.com/get/g57291b216cfb1e681094dd2effd1c46ca42b0cb96f738516e268820fcf4d5d62713fd4e7c4ccff9125ee09dc87b70dbe3a1fe688ab148c4b7961eb3046ad45ed_1280.jpg",
+        "thumbnail": "https://cdn.pixabay.com/photo/2022/09/04/20/15/cat-7432690_150.jpg",
+        "category": "animal_profile",
+        "tags": "cat, medieval armor, cartoon cat, pet, animal, kitten, cute cat, fantasy, armor, cartoon, painting, 3d render, 3d mockup"
+    },
+    {
+        "id": 49,
+        "title": "Ai Generated",
+        "url": "https://pixabay.com/get/gc7a52301ab918192c5fe5347eb774c7b94eec4582f7886690e4a40b4d5f4bc62de6628cf2d11b406bc8b6c52e6c5bcfd6c3143048fd98ea5abaa98c0079023f6_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2025/05/23/13/46/ai-generated-9617817_150.png",
+        "category": "animal_profile",
+        "tags": "ai generated, hippo, africa, river, wild nature, cute style, kind hippopotamus, purple hippo, cute animal, 3d character, animal for children, funny hippopotamus, african beast, toon, animal character, big head, cartoon, calm hippopotamus, 3d style animal"
+    },
+    {
+        "id": 50,
+        "title": "Elephant",
+        "url": "https://pixabay.com/get/gb4d167b9f4cfb9fb48763a108f5ad9c1cf6e3f2148534aad57879e05308ce23fec4195bd9e6b686b2f6cc935fc621a22253d17048485e4de9dd9e3f32ce51c78_1280.png",
+        "thumbnail": "https://cdn.pixabay.com/photo/2026/02/20/11/48/tanrica-elephant-10134534_150.png",
+        "category": "animal_profile",
+        "tags": "elephant, african elephant, large mammal, wild animal, realistic skin texture, long trunk, big ears, side view elephant, safari wildlife, detailed animal art, nature fauna, standing elephant, natural colors, wildlife illustration, animal portrait, savanna animal, herbivore mammal, high-detail illustration, exotic wildlife, powerful creature, wilderness theme, realistic character, endangered species, ai generated"
+    }
+]
